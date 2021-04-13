@@ -28,9 +28,13 @@ below is the picture of liu yifei linked above
 2. this is numbered list two
 3. this is numbered list three
 
+this is table
+
 |name|year|gender|Magnum opus|
 |---|---|---|---|
 |Liu Yifei|34|female|《Mu Lan》|
+
+this is bolded text,italicized text and strikethrough text
 
 |bolded text|italicized text|strikethrough text|
 |---|---|---|
