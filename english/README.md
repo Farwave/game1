@@ -5,3 +5,5 @@
 <h4 id="header">this is a h4 sized header</h4>
 
 [this is a link to file0](file0.md)
+
+[this is a link to baidu](http://www.baidu.com)
