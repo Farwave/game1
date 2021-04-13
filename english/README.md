@@ -14,7 +14,7 @@
 
 [this is a link to a picture of Liu Yifei_1](https://img1.baidu.com/it/u=2023051955,2584660320&fm=26&fmt=auto&gp=0.jpg)
 
-this is the picture of liu yifei linked above 
+below is the picture of liu yifei linked above 
 
 ![this is a picture of Liu Yifei_1](https://img1.baidu.com/it/u=2023051955,2584660320&fm=26&fmt=auto&gp=0.jpg)
 
