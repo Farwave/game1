@@ -33,8 +33,9 @@ below is the picture of liu yifei linked above
 |Liu Yifei|34|female|《Mu Lan》|
 
 |bolded text|italicized text|strikethrough text|
-|**I**|*love*|<u>Liu Yifei</u>|
+|---|---|---|
+|**I**|*love*|~~you~~|
 
-|bolded text|italicized text|strikethrough text|
+|bolded text|italicized text|text|
 |---|---|---|
 |**I**|*love*|Liu Yifei|
