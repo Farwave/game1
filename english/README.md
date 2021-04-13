@@ -1,1 +1,1 @@
-[跳转到file0](english/file0.md)
+[跳转到file0](file0.md)
