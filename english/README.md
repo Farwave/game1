@@ -35,4 +35,3 @@ below is the picture of liu yifei linked above
 |bolded text|italicized text|strikethrough text|
 |---|---|---|---|
 |**I**|*love*|<u>Liu Yifei</u>|
-
