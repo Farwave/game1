@@ -9,3 +9,5 @@
 [this is a link to baidu](http://www.baidu.com)
 
 ` print "I love Liu Yifei!" `
+
+[this is a picture of Liu Yifei](https://img1.baidu.com/it/u=2023051955,2584660320&fm=26&fmt=auto&gp=0.jpg)
