@@ -8,4 +8,4 @@
 
 [this is a link to baidu](http://www.baidu.com)
 
-` print "Liu Yifei" `
+` print "I love Liu Yifei!" `
