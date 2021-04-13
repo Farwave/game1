@@ -31,3 +31,8 @@ below is the picture of liu yifei linked above
 |name|year|gender|Magnum opus|
 |---|---|---|---|
 |Liu Yifei|34|female|《Mu Lan》|
+
+|bolded text|italicized text|strikethrough text|
+|---|---|---|---|
+|**I**|*love*|<u>Liu Yifei</u>|
+
