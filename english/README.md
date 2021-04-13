@@ -17,3 +17,7 @@
 * this is bulleted list one
 * this is bulleted list two
 * this is bulleted list three
+
+1. this is numbered list one
+2. this is numbered list two
+3. this is numbered list three
